@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "天国の踊り場",
+  "base_artist": "Gothic×Luck",
+  "createdAt": "2026-03-15T05:41:55.385408Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天国の踊り場",
+      "artist": "Gothic×Luck",
+      "has_synced": false,
+      "path": "select/pl_01_天国の踊り場_Gothic×Luck.txt"
+    }
+  ]
+}
